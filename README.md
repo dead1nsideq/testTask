@@ -23,3 +23,6 @@ Roots table:
 Equation_roots table:
 
 ![image](https://user-images.githubusercontent.com/81183937/227680428-d4714a30-2ab4-42fb-9012-6d82370dbf33.png)
+
+Tests:
+![image](https://user-images.githubusercontent.com/81183937/227681278-af740a10-ba7f-4da3-800f-f95cb044566b.png)
