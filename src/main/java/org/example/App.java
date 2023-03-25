@@ -40,7 +40,7 @@ public class App {
                 "1. Add equations to database\n" +
                 "2. Add roots to database\n" +
                 "3. Get all equations with a certain root\n" +
-                "4. Search by volume\n" +
+                "4. Get all equations with a certain amount of root\n" +
                 "5. Show all equation and their roots\n" +
                 "6. Exit");
     }
