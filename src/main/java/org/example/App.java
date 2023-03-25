@@ -60,13 +60,13 @@ public class App {
             switch (option) {
                 case 1:
                     System.out.println("Please enter correct equation: ");
-                    scanner.next();
-                    String equation = scanner.nextLine();
+                    Scanner scanner1 = new Scanner(System.in);
+                    String equation = scanner1.nextLine();
                     program = new EquationSolver(equation);
 
                     while (!program.isValid()) {
                         System.out.println("Invalid equation,please re-enter equation");
-                        equation = scanner.nextLine();
+                        equation = scanner1.nextLine();
                         program = new EquationSolver(equation);
                     }
 

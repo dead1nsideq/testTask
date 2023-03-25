@@ -194,6 +194,6 @@ public class Controller {
         } catch (SQLException e) {
             System.out.println(e.getMessage());
         }
-        System.out.println("Equations with " + x + " roots - " + count);
+        System.out.println("Equations with " + x + " root - " + count);
     }
 }
