@@ -103,7 +103,7 @@ public class App {
                     controller.findByRoot(root);
                     break;
                 case 4:
-                    System.out.println("Enter volume: ");
+                    System.out.println("Enter amount of roots: ");
                     int volume = getIntFromConsole();
                     controller.rootCount(volume);
                     break;
