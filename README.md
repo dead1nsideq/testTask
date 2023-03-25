@@ -3,10 +3,11 @@ TestTask for Java courses
 
 Some example of working program:
 
-![image](https://user-images.githubusercontent.com/81183937/227680263-f014d043-d3cc-40f8-bd49-d33fb220d06b.png)
-![image](https://user-images.githubusercontent.com/81183937/227680287-5a872d8a-331d-41d5-b116-915c76909af6.png)
-![image](https://user-images.githubusercontent.com/81183937/227680292-92e47816-da66-4b59-925a-a8801ba4d92c.png)
-![image](https://user-images.githubusercontent.com/81183937/227680327-e6b6ca04-61a5-49ea-ae84-80d033d1ed69.png)
+![image](https://user-images.githubusercontent.com/81183937/227681518-8be30c06-d8cb-412c-919f-0d9099b9a6af.png)
+![image](https://user-images.githubusercontent.com/81183937/227681527-b8225418-9886-4149-a123-a326a13af11f.png)
+![image](https://user-images.githubusercontent.com/81183937/227681546-f9bc2943-b3a9-40cd-8a67-1d9cc39630ee.png)
+![image](https://user-images.githubusercontent.com/81183937/227681561-6cc235fd-8275-4c81-aef5-82a08cc692a1.png)
+
 
 Screenshots from database:
 
@@ -25,4 +26,5 @@ Equation_roots table:
 ![image](https://user-images.githubusercontent.com/81183937/227680428-d4714a30-2ab4-42fb-9012-6d82370dbf33.png)
 
 Tests:
+
 ![image](https://user-images.githubusercontent.com/81183937/227681278-af740a10-ba7f-4da3-800f-f95cb044566b.png)
